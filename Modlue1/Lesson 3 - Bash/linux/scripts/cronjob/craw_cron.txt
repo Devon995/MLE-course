@@ -1,0 +1,1 @@
+* * * * * conda activate base; cd /path/to/dir/contain/crawl.py && python crawl.py
